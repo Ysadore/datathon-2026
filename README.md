@@ -1,6 +1,6 @@
 # NZ Court Intelligence — Bootstrap
 
-Datathon MVP for extracting **traceable structured information from public New Zealand court judgment PDFs**.
+This is my team's submission for the University of Auckland Data Science Club Datathon 2026. It is an MVP for extracting **traceable structured information from public New Zealand court judgment PDFs**.
 
 ## Stack
 
